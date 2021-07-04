@@ -29,7 +29,7 @@ h3{
 }
 .hireme{
     text-decoration: none;
-    background-color: purple;
+    background-image: linear-gradient(red, orange);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
@@ -45,7 +45,7 @@ h3{
 
 .resume{
     text-decoration: none;
-    background-color: orchid;
+    background-image: radial-gradient(blue, cyan);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
