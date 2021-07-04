@@ -1,0 +1,75 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    color: orange;
+}
+.orange-color{
+    color: orange;
+}
+.first-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width{
+    width: 50%;
+    margin: 30px;
+    padding-left: 30px;
+}
+.half-width img{
+    width: 80%;
+}
+.hireme{
+    text-decoration: none;
+    background-color: purple;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.secondsection{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    
+}
+.resume{
+    text-decoration: none;
+    background-color: orchid;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+
+}
+.last{
+    display: flex;
+    margin:30px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.experiances{
+    margin-left: 30px;
+}
+.bothpart{
+    box-shadow: 5px 5px 30px black;
+    margin:40px;
+    padding-left: 20px;
+    padding-bottom: 60px;
+    border-radius: 5px;
+    border-left: 5px solid rgb(177, 2, 162);
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    font-weight: 700;
+}
